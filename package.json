@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wredifer/portfolio/issues"
   },
-  "homepage": "https://github.com/wredifer/portfolio#readme"
+  "homepage": "https://github.com/wredifer/portfolio#readme",
+  "devDependencies": {
+    "sass": "^1.25.0"
+  }
 }
